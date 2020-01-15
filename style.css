@@ -1,11 +1,12 @@
 /* CSS files add styling rules to your content */
 
 body {
-  font-family: helvetica, arial, sans-serif;
-  margin: 2em;
+  background-color: #4A001F;
+  font-family: 'Damion', cursive;
+  color: #FFFFFF;
 }
 
-h1 {
-  font-style: Bold;
-  color: #373fff;
+h2 {
+  font-style: italic;
+  color: #FFFFFF;
 }
