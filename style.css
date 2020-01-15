@@ -1,12 +1,16 @@
 /* CSS files add styling rules to your content */
 
 body {
-  background-color: #4A001F;
+  background-color: #6A0F49;
   font-family: 'Damion', cursive;
   color: #FFFFFF;
-}
-
+  
 h2 {
   font-style: italic;
   color: #FFFFFF;
 }
+a {
+  color: #97EFE9;
+}
+
+  
